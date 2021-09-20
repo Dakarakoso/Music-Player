@@ -19,7 +19,7 @@ const songs = [
     artist: "Willian & Matheus",
   },
   {
-    name: "emo",
+    name: "Emo",
     displayName: "EMO",
     album: "dark",
     artist: "Willian & Matheus",
